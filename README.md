@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# 🎬 Cinema App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Introduction
+Bienvenue dans **Cinema App**, une application web React conçue pour explorer, ajouter et filtrer des films et séries TV. Ce projet offre une interface utilisateur fluide et réactive pour organiser et découvrir vos films préférés. 
 
-## Available Scripts
+## 📌 Fonctionnalités
+✅ **Ajouter un film** avec un titre, une description, une note et une affiche.
+✅ **Télécharger une affiche** d'un film depuis votre ordinateur.
+✅ **Filtrer les films** par titre et par note.
+✅ **Interface moderne** avec React Bootstrap pour un design professionnel.
 
-In the project directory, you can run:
 
-### `npm start`
+## 🛠️ Technologies utilisées
+- ⚛️ **React.js** - Librairie pour créer des interfaces utilisateur dynamiques.
+- 🎨 **React Bootstrap** - Framework CSS pour une interface esthétique et responsive.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🎭 Installation & Exécution
+1. **Cloner le projet**
+   ```bash
+   git clone https://github.com/votre-repo/cinema-app.git
+   cd cinema-app
+   ```
+2. **Installer les dépendances**
+   ```bash
+   npm install
+   ```
+3. **Lancer l'application**
+   ```bash
+   npm start
+   ```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🌍 Déploiement
+L'application est déployée et accessible via le lien suivant :
+[🌐 Voir Cinema App en ligne](https://cinema-app-puce.vercel.app/)
 
-### `npm test`
+## 🏆 Pourquoi ce projet est unique ?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🔥 **Expérience utilisateur immersive** grâce à un design moderne.
 
-### `npm run build`
+🎞 **Gestion optimisée des affiches** avec upload d'images en local.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🧠 **Code structuré et évolutif**, respectant les bonnes pratiques React.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 👤 Auteur
 
-### `npm run eject`
+**BENIE SYLVESTRE**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+📧 Contact : sylvestrebenie7829@gmail.com
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
