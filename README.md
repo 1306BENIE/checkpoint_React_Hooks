@@ -4,9 +4,13 @@
 Bienvenue dans **Cinema App**, une application web React conçue pour explorer, ajouter et filtrer des films et séries TV. Ce projet offre une interface utilisateur fluide et réactive pour organiser et découvrir vos films préférés. 
 
 ## 📌 Fonctionnalités
+
 ✅ **Ajouter un film** avec un titre, une description, une note et une affiche.
+
 ✅ **Télécharger une affiche** d'un film depuis votre ordinateur.
+
 ✅ **Filtrer les films** par titre et par note.
+
 ✅ **Interface moderne** avec React Bootstrap pour un design professionnel.
 
 
