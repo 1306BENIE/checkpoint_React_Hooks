@@ -17,7 +17,7 @@ Bienvenue dans **Cinema App**, une application web React conçue pour explorer, 
 ## 🎭 Installation & Exécution
 1. **Cloner le projet**
    ```bash
-   git clone https://github.com/votre-repo/cinema-app.git
+   git clone https://github.com/1306BENIE/checkpoint_React_Hooks
    cd cinema-app
    ```
 2. **Installer les dépendances**
